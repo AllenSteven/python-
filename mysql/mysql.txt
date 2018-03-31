@@ -1,0 +1,23 @@
+python中的mysql
+
+http://www.bubuko.com/infodetail-2291944.html
+http://doc.mbalib.com/view/ad32b186555c78995d9bb13019195f21.html
+
+http://www.runoob.com/python/python-mysql.html
+在python2.x中使用MYSQLdb库.
+	导入库：import MySQLdb
+	
+http://www.runoob.com/python3/python3-mysql.html	
+在python3.x中使用Pymysql.
+	安装：pip install PyMySQL
+	导入库：import pymysql
+
+http://www.mamicode.com/info-detail-1555444.html	
+https://www.cnblogs.com/JayeHe/p/7518222.html
+SQLAchemy:SQLAlchemy是Python编程语言下的一款ORM框架，该框架建立在数据库API上，使用关系对象映射进行数据库操作，
+简言之，就是将对象转换成SQL，然后使用数据API执行SQL并获取执行结果。
+
+
+
+
+
